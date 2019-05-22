@@ -9,6 +9,7 @@ public class MicrotipApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(MicrotipApplication.class, args
+
 		);
 	}
 
